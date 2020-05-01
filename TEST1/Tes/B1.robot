@@ -1,0 +1,3 @@
+*** Test Cases ***
+MyFirstTest1
+    Log  Hello Baba...
