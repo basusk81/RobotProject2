@@ -22,5 +22,6 @@ MyFirstSeleniumTest
     Sleep    3s    
     Go Back
     Log  Hello Preeta
-    Close Browser
+    #Close Browser
+    Close All Browsers
     
